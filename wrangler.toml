@@ -1,0 +1,7 @@
+name = "bits"
+main = "src/worker.ts"
+compatibility_date = "2024-01-01"
+
+kv_namespaces = [
+  { binding = "settings", id = "7ebc5ef4565b4f7ab7a3cf00f9e425d2" }
+]
